@@ -12,3 +12,7 @@
 - Deploy as a daemon (and return)
 
     docker-compose up -d
+    
+# Question
+
+This docker file can start flink, but hadoop cluster can not start.
