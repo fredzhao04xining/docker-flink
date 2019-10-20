@@ -1,4 +1,9 @@
-1、编译镜像，执行
-./build-image.sh
-2、创建容器，启动hadoop，并运行测试程序
-./start-container.sh
+
+# Build
+
+    sh build-image.sh
+
+
+# Create container and hadoop, then test
+
+	  sh start-container.sh
